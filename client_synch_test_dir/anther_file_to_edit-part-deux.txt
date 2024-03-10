@@ -1,0 +1,4 @@
+a load of random text in order to give a sort of difference between two file on both client and server.
+fskjfs;afsakfhsaklfjh
+
+This is an attempt to edit and save as another file - should fail at the moment
