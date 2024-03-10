@@ -1,6 +1,7 @@
-# Directory Synch
+# Client Server Msg Passing.
 ## Background
-A client/server based system the synchronizes a client directory with a server directory using simple sockets.
+A client/server based system the synchronizes a client directory with a server directory using simple sockets and msg passing 
+to give commands through defined actions
 
 This software is writen on Windows 10 to use Python 3.8.9 - it is not compatible with Python 2. Python 3 versions 
 prior to 3.8.9 are untested. It is also entirely untested on any flavour of Linux.
